@@ -1,1 +1,2 @@
-# redmine-wiki_taskinfo_macros
+# Redmine - wiki task info macros
+
